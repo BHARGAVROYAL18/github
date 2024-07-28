@@ -1,3 +1,5 @@
+package ApniCollege;
+
 import java.util.Scanner;
 
 public class even_or_odd {
