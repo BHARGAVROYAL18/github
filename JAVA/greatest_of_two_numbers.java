@@ -1,4 +1,4 @@
-package ApniCollege;
+
 import java.util.Scanner;
 
 public class greatest_of_two_numbers {

@@ -1,4 +1,4 @@
-package ApniCollege.Loops;
+package Loops;
 import java.util.Scanner;
 public class printing_of_natural_numbers {
     public static void main(String[] args) {

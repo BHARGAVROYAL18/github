@@ -1,4 +1,4 @@
-package ApniCollege.Loops.patterns;
+package Loops.patterns;
 import java.util.Scanner;
 public class right_half_pyramid {
     public static void main(String[] args) {

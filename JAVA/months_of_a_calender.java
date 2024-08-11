@@ -1,4 +1,4 @@
-package ApniCollege;
+
 import java.util.Scanner;
 public class months_of_a_calender {
     public static void main(String[] args) {

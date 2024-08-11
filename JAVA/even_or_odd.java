@@ -1,4 +1,4 @@
-package ApniCollege;
+
 
 import java.util.Scanner;
 

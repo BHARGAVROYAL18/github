@@ -1,4 +1,4 @@
-package ApniCollege.Loops;
+package Loops;
 
 import java.util.Scanner;
 

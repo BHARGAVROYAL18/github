@@ -1,4 +1,4 @@
-package ApniCollege.arrays;
+package arrays;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package ApniCollege.two_d_arrays;
+package two_d_arrays;
 
 import java.util.Scanner;
 
