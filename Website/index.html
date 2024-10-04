@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Personal Website</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Your Name</h1>
+      <p>Welcome to my personal website</p>
+    </div>
+  </header>
+
+  <nav class="navbar">
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about" class="section">
+    <h2>About Me</h2>
+    <p>I'm a web developer with experience in building interactive websites. I love coding and creating beautiful designs.</p>
+  </section>
+
+  <section id="projects" class="section">
+    <h2>Projects</h2>
+    <div class="slideshow-container">
+      <div class="slide fade">
+        <img src="project1.jpg" class="slide-image">
+        <div class="caption">Project 1: Website Design</div>
+      </div>
+      <div class="slide fade">
+        <img src="project2.jpg" class="slide-image">
+        <div class="caption">Project 2: E-commerce Platform</div>
+      </div>
+      <div class="slide fade">
+        <img src="project3.jpg" class="slide-image">
+        <div class="caption">Project 3: Portfolio Showcase</div>
+      </div>
+    </div>
+    <div class="navigation">
+      <span class="dot" onclick="currentSlide(1)"></span>
+      <span class="dot" onclick="currentSlide(2)"></span>
+      <span class="dot" onclick="currentSlide(3)"></span>
+    </div>
+  </section>
+
+  <section id="contact" class="section">
+    <h2>Contact</h2>
+    <p>Feel free to reach out via email at <a href="mailto:youremail@example.com">youremail@example.com</a>.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Your Name | Designed with 💙</p>
+  </footer>
+
+  <script src="scripts.js"></script>
+</body>
+</html>
